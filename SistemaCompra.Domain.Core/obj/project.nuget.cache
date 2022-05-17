@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "idMtET4dFuN3nz093L54uE5t64QdIlmxikC1PlMiNBFBCwP+FKYXJZ0eXBX6U6Q3c2AevrQ+kpiJrw+qBHrd4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julie\\dev\\julierme\\teste-pratico\\SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
